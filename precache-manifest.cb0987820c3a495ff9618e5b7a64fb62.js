@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c5a9b6096cce7bcf0db0556871115e8",
+    "revision": "90ee9cfb926389fbb9cd1b2cd6507d57",
     "url": "/roboFriends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roboFriends/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "bcdbbbd506d6fbc54fb1",
+    "revision": "61fe21527a16c3dc770e",
     "url": "/roboFriends/static/css/main.598eca50.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roboFriends/static/js/2.67c1821c.chunk.js.LICENSE"
   },
   {
-    "revision": "bcdbbbd506d6fbc54fb1",
-    "url": "/roboFriends/static/js/main.e8a33265.chunk.js"
+    "revision": "61fe21527a16c3dc770e",
+    "url": "/roboFriends/static/js/main.31a28525.chunk.js"
   },
   {
     "revision": "3bd99d692eb6f9d99387",
